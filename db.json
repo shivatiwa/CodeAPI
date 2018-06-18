@@ -1,77 +1,404 @@
 {
- "results":
-    [
+  "results": [
     {
-      "Question":"The stenographer is very efficient. He is ______ to his firm.",
-      "A":"an asset",
-      "B":"a credit",
-      "C":"a blessing",
-      "D":"a boon",
-      "image":"",
-      "text":"an asset"
+      "Question": "1. Which of the following holds the ROM, RAM, CPU?",
+      "A": "Hard Disk",
+      "B": "ALU",
+      "C": "Mother Board",
+      "D": "None of the above",
+      "text": "Answer : C"
     },
     {
-        "Question":"This brand of TV is quite inferior_____ that one.",
-        "A":"than",
-        "B":"to",
-        "C":"with",
-        "D":"over",
-        "image":"",
-        "text":"to"
-      },
-      {
-        "Question":"If RAJIYA is coded as YARAJI, How is SHIVANI CODED?",
-        "A":"NISIHVA",
-        "B":"NISHVIA",
-        "C":"NISHIVA",
-        "D":"NIHSIVA",
-        "image":"",
-        "text":"NISHIVA"
-      },
-      {
-        "Question":"The value of A is 1 if A% of 100 is1, then what is the value of p if p% of 50 is 85?",
-        "A":"160",
-        "B":"170",
-        "C":"180",
-        "D":"185",
-        "image":"",
-        "text":"170"
-      },
-    {
-      "Question":"Two men start together to walk to a certain destination, one at 3 kmph and another at 3.75 kmph. The latter arrives half an hour before the former. What is the distance?",
-      "A":"6km",
-      "B":"7.5km",
-      "C":"8km",
-      "D":"9.5km",
-      "image":"",
-      "text":""
+      "Question": "2. Magnetic Tape used _________ access method.",
+      "A": "Random",
+      "B": "Sequential",
+      "C": "Direct",
+      "D": "None of the above",
+      "text": "Answer : B"
     },
     {
-        "Question":"What is the average of the positive numbers from 1 to 100?",
-        "A":"49.5",
-        "B":"50",
-        "C":"50.5",
-        "D":"51",
-        "image":"",
-        "text":"50.5"
-      },
-      {
-        "Question":"If RAJIYA is coded as YARAJI, How is SHIVANI CODED?",
-        "A":"NISIHVA",
-        "B":"NISHVIA",
-        "C":"NISHIVA",
-        "D":"NIHSIVA",
-        "image":"",
-        "text":""
-      },
-      {
-        "Question":"The value of A is 1 if A% of 100 is1, then what is the value of p if p% of 50 is 85?",
-        "A":"160",
-        "B":"170",
-        "C":"180",
-        "D":"185",
-        "image":"",
-        "text":"170"
-      }
-    ] 
+      "Question": "3. What is the difference between Memory and Storage?",
+      "A": "Memory is Temporary and Storage is Permanent",
+      "B": "Memory is Permanent and Storage is Temporary",
+      "C": "Memory is Slow and Storage is Fast",
+      "D": "None of the above",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "4. The Language that the computer can understand is called _______.",
+      "A": "High Level Language",
+      "B": "Machine Language",
+      "C": "System Program",
+      "D": "Assembaly Language",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "5.CPU stands for?",
+      "A": "Common Processing Unit",
+      "B": "Central Process Unit",
+      "C": "Central Processing Unit",
+      "D": "Central Performance Unit",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "7. ALU stands for?",
+      "A": "Arithmetic Logic Unit",
+      "B": "Arithmetic Logical Unit",
+      "C": "Arithmetic Logic Uniform",
+      "D": "None of the above",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "8. MODEM stands for?",
+      "A": "Multicomputer Operating Device Memory",
+      "B": "Modulator Demodulator",
+      "C": "Mega Storage Devide",
+      "D": "None of the above",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "9. CPU controls ___________.",
+      "A": "All Input, Output and processing",
+      "B": "Controls Memory",
+      "C": "Controlled by the input data",
+      "D": "None of the above",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "10. Which of the following is not hardware?",
+      "A": "Printer",
+      "B": "Monitor",
+      "C": "Magnetic Tape",
+      "D": "MS Word",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "11. Memories which can be read only are called ____________ memories.",
+      "A": "RAM",
+      "B": "ROM",
+      "C": "EERAM",
+      "D": "Dynamic Memories",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "12. What is the radix of Binary Number System?",
+      "A": "3",
+      "B": "1",
+      "C": "2",
+      "D": "4",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "13. What is the radix of Octal Number System?",
+      "A": "18",
+      "B": "8",
+      "C": "7",
+      "D": "2",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "14. The Decimal Number system has base __________.",
+      "A": "8",
+      "B": "9",
+      "C": "11",
+      "D": "None of the above",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "15 The Hexadecimal Number system has base __________.",
+      "A": "A",
+      "B": "F",
+      "C": "16",
+      "D": "10",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "16 BCD stands for ___________.",
+      "A": "Basic Computer Digit",
+      "B": "Binary Converted Decimal",
+      "C": "Binary Coded Decimal",
+      "D": "None of the above",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "17 Octal number system contains digits from __________.",
+      "A": "0 - 8",
+      "B": "0 - 7",
+      "C": "1 - 8",
+      "D": "1 - 9",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "18 Decimal number system contains digits from __________.",
+      "A": "1 - 10",
+      "B": "0 - 10",
+      "C": "0 - 8",
+      "D": "0 - 9",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "19 Portable program means?",
+      "A": "Program with wheels",
+      "B": "Independent from its authors",
+      "C": "Independent of platform",
+      "D": "None of the above",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "20 The number of 1's present in the binary representation of 10 x 256 + 5 x 16 + 5 is",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "21 The scheme of which interpreter translates the source program is known as",
+      "A": "Paragraph by paragraph",
+      "B": "Instruction by instruction",
+      "C": "Line by line",
+      "D": "None of the above",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "22 The principal electronic payment systems for electronic commerce is __________.",
+      "A": "Credit Card",
+      "B": "Digital Wallet",
+      "C": "Electronic Cheque",
+      "D": "All of the above",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "23 What is the first stage in program development?",
+      "A": "Specification and design",
+      "B": "System Analysis",
+      "C": "Testing",
+      "D": "None of the above",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "24 Which of these are the 5 generic software engineering framework activities?",
+      "A": "Communication, planning, modelling, construction, deployment",
+      "B": "Communication, risk management, measurement, production, reviewing",
+      "C": "Analysis, designing, programming, Debugging, maintenance",
+      "D": "Analysis, planning, designing, programming, testing",
+      "text": ""
+    },
+    {
+      "Question": "25 The hexadecimal number system consists of the following symbols __________.",
+      "A": "0 - 7",
+      "B": "0 - 9",
+      "C": "0 - 9, A - F",
+      "D": "None of the above",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "25 DNS in internet technology stands for",
+      "A": "Dynamic Name System",
+      "B": "Domain Name System",
+      "C": "Distributed Name System",
+      "D": "None of the above",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "26. HTML stands for",
+      "A": "Hyper Text Markup Language",
+      "B": "Hyper Text Manipulation Language",
+      "C": "Hyper Text Managing Links",
+      "D": "Hyper Text Manipulating Links",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "27. GB is equal to ______.",
+      "A": "230 bits",
+      "B": "230 bytes",
+      "C": "220 bits",
+      "D": "220 bytes",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "28. The set of computer programs that manage the hardware/software of a computer is called",
+      "A": "Compiler system",
+      "B": "Operation system",
+      "C": "Operating system",
+      "D": "None of the above",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "29. S/MIME in Internet technology stands for?",
+      "A": "Secure Multipurpose Internet Mail Extension",
+      "B": "Secure Multimedia Internet Mail Extension",
+      "C": "Simple Multipurpose Internet Mail Extension",
+      "D": "Simple Multimedia Internet Mail Extension",
+      "text": "Answer : A",
+    },
+    {
+      "Question": "30. Which one of the following is an example of Operating System ?",
+      "A": "Microsoft Word",
+      "B": "Microsoft Excel",
+      "C": "Microsoft Access",
+      "D": "Microsoft Windows",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "31. Which one of the following represent the binary equivalent of the decimal number 23?",
+      "A": "01011",
+      "B": "10111",
+      "C": "10011",
+      "D": "None of the above",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "32. Which one of the following is different from other members?",
+      "A": "Google",
+      "B": "Windows",
+      "C": "Linux",
+      "D": "Mac",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "33. Computers on an internet are identified by",
+      "A": "E-mail address",
+      "B": "Street address",
+      "C": "IP address",
+      "D": "All of the above",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "34. What is blog?",
+      "A": "Online Music",
+      "B": "Intranet",
+      "C": "A personal or corporate website in the form of an online journal",
+      "D": "A personal or corporate Google Search",
+      "text": "Answer : C"
+    },
+    {
+      "Question": "35. Which is not online Indian Matrimonial website?",
+      "A": "www.jeevansathi.com",
+      "B": "www.shaadi.com",
+      "C": "www.bharatmatrimony.com",
+      "D": "www.u.k.singlemuslim.com",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "36. Bit stands for",
+      "A": "Binary Information Term",
+      "B": "Binary Digit",
+      "C": "Binary Tree",
+      "D": "Bivariate Theory",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "37.Which one of the following is not a network device?",
+      "A": "Router",
+      "B": "Switch",
+      "C": "Hub",
+      "D": "CPU",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "38. A compiler is used to convert the following to object code which can be executed",
+      "A": "High-level language",
+      "B": "Low-level language",
+      "C": "Assembly language",
+      "D": "Natural language",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "39. How many 1's are present in the binary representation of 3 x 512 + 7 x 64 + 5 x 8 + 3",
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "40. The Unix command used to find out the number of characters in a file is",
+      "A": "nc",
+      "B": "wc",
+      "C": "chcnt",
+      "D": "lc",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "41. In a client/server model, a client program ___.",
+      "A": "Asks for information",
+      "B": "Provides information and files",
+      "C": "Serves software files to other computers",
+      "D": "Distributes data files to other computers",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "42. Every device on the Internet has a unique ___________ address (also called an 'Internet address').",
+      "A": "DH",
+      "B": "IPVPP",
+      "C": "DTH",
+      "D": "IP",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "43. PERT stands for?",
+      "A": "Program Evaluation and Review Technique",
+      "B": "Permission Evaluation and Review Technique",
+      "C": "Project Evaluation and Review Technique",
+      "D": "A & C Both",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "44. ______ is the high speed memory used in the computer.",
+      "A": "RAM",
+      "B": "BIOS",
+      "C": "Hard disk",
+      "D": "Cache",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "45. SWOT analysis stands for?",
+      "A": "Strength Weakness Opportunity and Threat",
+      "B": "Stamina Will Obesity Threat",
+      "C": "Subtle Will Opportunity Threat",
+      "D": "None of the above",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "46. The set of processed data is called?",
+      "A": "Data",
+      "B": "Data Processing",
+      "C": "Database",
+      "D": "Information",
+      "text": "Answer : D"
+    },
+    {
+      "Question": "47. BPO Means?",
+      "A": "Business Process Outsourcing",
+      "B": "Business Process Office",
+      "C": "Business Process Output",
+      "D": "Business Program Output",
+      "text": "Answer : A"
+    },
+    {
+      "Question": "48. Which of the following is object oriented programming?",
+      "A": "C",
+      "B": "C++",
+      "C": "BASIC",
+      "D": "FORTRAN",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "49. gif is expanded as?",
+      "A": "Graphics Interchange File",
+      "B": "Graphics Interchange Format",
+      "C": "Graphics Information File",
+      "D": "Graphics Information Format",
+      "text": "Answer : B"
+    },
+    {
+      "Question": "50. AVI format was developed by?",
+      "A": "IBM",
+      "B": "Apple",
+      "C": "Microsoft",
+      "D": "Macromedia",
+      "text": "Answer : C"
+    }
+  ]
 }

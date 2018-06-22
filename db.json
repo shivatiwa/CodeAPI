@@ -9,7 +9,7 @@
       "text": "e"
     },
     {
-      "Question": "Question:What is the output of the following code ?\n#include<stdio.h>\nvoid main()\n{\n int arr[] = {10,20,30,40,50};\n int *ptr = arr;\n printf(" %d	%d	",*ptr++,*ptr);\n}",
+      "Question": "Question:What is the output of the following code ?\n#include<stdio.h>\nvoid main()\n{\n int arr[] = {10,20,30,40,50};\n int *ptr = arr;\n printf('%d%d',*ptr++,*ptr);\n}",
       "A": "Hard Disk",
       "B": "ALU",
       "C": "Mother Board",
@@ -17,7 +17,7 @@
       "text": "10 10"
     },
     {
-      "Question": "What is the output of the following program code ?\n#include<stdio.h>\nvoid abc(int a[])\n{\na++;\na[1]=612;\n}\nmain()\n{\nchar a[5];\nabc(a);\nprintf("%d",a[4]);\n}",
+      "Question": "What is the output of the following program code ?\n#include<stdio.h>\nvoid abc(int a[])\n{\na++;\na[1]=612;\n}\nmain()\n{\nchar a[5];\nabc(a);\nprintf('%d',a[4]);\n}",
       "A": "Hard Disk",
       "B": "ALU",
       "C": "Mother Board",
@@ -57,7 +57,7 @@
       "text": "10"
     },
     {
-      "Question": "What is the output of the following code ?\nvoid main()\n{\n int i = 100, j = 200;\n const int *p=&i;\n p = &j;\n printf("%d",*p);\n}",
+      "Question": "What is the output of the following code ?\nvoid main()\n{\n int i = 100, j = 200;\n const int *p=&i;\n p = &j;\n printf('%d',*p);\n}",
       "A": "Hard Disk",
       "B": "ALU",
       "C": "Mother Board",

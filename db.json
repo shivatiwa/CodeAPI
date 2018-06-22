@@ -1,7 +1,7 @@
 {
   "results": [
     {
-      "Question": "What would be the output of the following program ?\n#include <stdio.h>\nmain()\n{\n printf(" %c", "abcdefgh"[4]);\n}",
+      "Question": "What would be the output of the following program ?\n#include <stdio.h>\nmain()\n{\n printf('%c', 'abcdefgh'[4]);\n}",
       "A": "Hard Disk",
       "B": "ALU",
       "C": "Mother Board",
@@ -25,7 +25,7 @@
       "text": "Error"
     },
     {
-      "Question": "The output of this code is :\nmain()\n{\n long i = 30000;\n printf("%d", i);\n}",
+      "Question": "The output of this code is :\nmain()\n{\n long i = 30000;\n printf('%d', i);\n}",
       "A": "Hard Disk",
       "B": "ALU",
       "C": "Mother Board",
